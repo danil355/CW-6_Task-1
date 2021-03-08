@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CW-6_Task-1</string>
+    <string name="btn1">btn1</string>
+    <string name="activity_1">Переданный параметр: значение_параметра».значение_параметра – принятый параметр из Activity 1.</string>
+</resources>
